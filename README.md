@@ -1,5 +1,4 @@
-# Romain Bachelier
-## Programmer & game designer
+# Programmer & game designer
 #### 3+ années d'expérience en studio de jeux
 
 ***
@@ -9,16 +8,16 @@
 <table>
   <tr>
     <td>
-        <img src="/assets/img/cpplogo.png" width="50" height="50">
+        <center><img src="/assets/img/cpplogo.png" width="50" height="50"></center>
     </td>
     <td>
-        <img src="/assets/img/cslogo.png" width="50" height="50">
+        <center><img src="/assets/img/cslogo.png" width="50" height="50"></center>
     </td>
     <td>
-        <img src="/assets/img/pythonlogo.png" width="50" height="50">
+        <center><img src="/assets/img/pythonlogo.png" width="50" height="50"></center>
     </td>
     <td>
-        <img src="/assets/img/javalogo.png" width="50" height="50">
+        <center><img src="/assets/img/javalogo.png" width="50" height="50"></center>
     </td>
   </tr>
 
@@ -35,10 +34,10 @@
 <table style="width:50%">
   <tr>
     <td>
-        <img src="/assets/img/unreallogo.png" width="50" height="50">
+        <center><img src="/assets/img/unreallogo.png" width="50" height="50"></center>
     </td>
     <td>
-        <img src="/assets/img/unitylogo.png" width="50" height="50">
+        <center><img src="/assets/img/unitylogo.png" width="50" height="50"></center>
     </td>
   </tr>
 
