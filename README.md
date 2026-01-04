@@ -3,10 +3,10 @@
 
 ***
 
-## Projects
+## Projets
 
 <a href="betshet.github.io/Descent">
-<img src="/assets/img/Descent/DescentMainMenu.png" width="50" height="50">
+<img src="/assets/img/Descent/DescentMainMenu.png" width="200" height="200">
 </a> 
 
 
