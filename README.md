@@ -5,6 +5,7 @@
 ***
 
 ### Languages
+[Logo](/assets/img/cpplogo.png)
 C# - C++ - Java - Python
 ### Moteurs
 Unity - Unreal
