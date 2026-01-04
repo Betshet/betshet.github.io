@@ -1,8 +1,8 @@
 ![Descent main menu](assets/img/DescentMainMenu.png)
 
-Moteur : Unity
-Equipe : 4 personnes
-Mon rôle : Programmation, game design, scénario et dialogues
+Moteur : Unity<br>
+Equipe : 4 personnes<br>
+Mon rôle : Programmation, game design, scénario et dialogues<br>
 
 <table>
   <tr>
