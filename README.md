@@ -5,11 +5,23 @@
 ***
 
 ### Languages
-![Logo](/assets/img/cpplogo.png)
-![Logo](/assets/img/cslogo.png)
-![Logo](/assets/img/pythonlogo.png)
-![Logo](/assets/img/javalogo.png)
-C# - C++ - Java - Python
+<figure>
+    <img src="/assets/img/cpplogo.png" width="50" height="50">
+    <figcaption>C++</figcaption>
+</figure>
+<figure>
+    <img src="/assets/img/cslogo.png" width="50" height="50">
+    <figcaption>C#</figcaption>
+</figure>
+<figure>
+    <img src="/assets/img/pythonlogo.png" width="50" height="50">
+    <figcaption>Python</figcaption>
+</figure>
+<figure>
+    <img src="/assets/img/javalogo.png" width="50" height="50">
+    <figcaption>Java</figcaption>
+</figure>
+
 ### Moteurs
 Unity - Unreal
 ### Compétences
