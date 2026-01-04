@@ -42,6 +42,7 @@ social:
 address:
   - line: 102 rue du Général Chanzy
   - line: 37000 Tours
+  - line: France
 
 # Credits content
 credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
