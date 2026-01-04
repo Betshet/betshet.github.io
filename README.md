@@ -5,22 +5,32 @@
 ***
 
 ### Languages
-<figure>
-    <img src="/assets/img/cpplogo.png" width="50" height="50">
-    <figcaption>C++</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/cslogo.png" width="50" height="50">
-    <figcaption>C#</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/pythonlogo.png" width="50" height="50">
-    <figcaption>Python</figcaption>
-</figure>
-<figure>
-    <img src="/assets/img/javalogo.png" width="50" height="50">
-    <figcaption>Java</figcaption>
-</figure>
+<div class="row">
+  <div class="column">
+    <figure>
+        <img src="/assets/img/cpplogo.png" width="50" height="50">
+        <figcaption>C++</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+        <img src="/assets/img/cslogo.png" width="50" height="50">
+        <figcaption>C#</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+        <img src="/assets/img/pythonlogo.png" width="50" height="50">
+        <figcaption>Python</figcaption>
+    </figure>
+  </div>
+  <div class="column">
+    <figure>
+        <img src="/assets/img/javalogo.png" width="50" height="50">
+        <figcaption>Java</figcaption>
+    </figure>
+  </div>
+</div>
 
 ### Moteurs
 Unity - Unreal
