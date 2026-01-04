@@ -2,10 +2,11 @@
 #### 3+ années d'expérience en studio de jeux
 
 ***
+
 ## Projects
 
 <a href="betshet.github.io/Descent">
-<img src="/assets/img/Descent/DescentMainMenu.png">
+<img src="/assets/img/Descent/DescentMainMenu.png" width="50" height="50">
 </a> 
 
 
