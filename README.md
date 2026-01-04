@@ -23,16 +23,16 @@
   </tr>
 
   <tr>
-    <td>C++</td>
-    <td>C#</td>
-    <td>Python</td>
-    <td>Java</td>
+    <td><center>C++</center></td>
+    <td><center>C#</center></td>
+    <td><center>Python</center></td>
+    <td><center>Java</center></td>
   </tr>
 </table>
 
 ### Moteurs
 
-<table>
+<table style="width:50%">
   <tr>
     <td>
         <img src="/assets/img/unreallogo.png" width="50" height="50">
@@ -43,8 +43,8 @@
   </tr>
 
   <tr>
-    <td>Unreal</td>
-    <td>Unity</td>
+    <td><center>Unreal</center></td>
+    <td><center>Unity</center></td>
   </tr>
 </table>
 
