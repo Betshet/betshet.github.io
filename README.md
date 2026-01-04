@@ -5,7 +5,10 @@
 ***
 
 ### Languages
-[Logo](/assets/img/cpplogo.png)
+![Logo](/assets/img/cpplogo.png)
+![Logo](/assets/img/cslogo.png)
+![Logo](/assets/img/pythonlogo.png)
+![Logo](/assets/img/javalogo.png)
 C# - C++ - Java - Python
 ### Moteurs
 Unity - Unreal
