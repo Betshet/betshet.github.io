@@ -5,35 +5,49 @@
 ***
 
 ### Languages
-<div class="row">
-  <div class="column">
-    <figure>
+
+<table>
+  <tr>
+    <td>
         <img src="/assets/img/cpplogo.png" width="50" height="50">
-        <figcaption>C++</figcaption>
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
+    </td>
+    <td>
         <img src="/assets/img/cslogo.png" width="50" height="50">
-        <figcaption>C#</figcaption>
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
+    </td>
+    <td>
         <img src="/assets/img/pythonlogo.png" width="50" height="50">
-        <figcaption>Python</figcaption>
-    </figure>
-  </div>
-  <div class="column">
-    <figure>
+    </td>
+    <td>
         <img src="/assets/img/javalogo.png" width="50" height="50">
-        <figcaption>Java</figcaption>
-    </figure>
-  </div>
-</div>
+    </td>
+  </tr>
+
+  <tr>
+    <td>C++</td>
+    <td>C#</td>
+    <td>Python</td>
+    <td>Java</td>
+  </tr>
+</table>
 
 ### Moteurs
-Unity - Unreal
+
+<table>
+  <tr>
+    <td>
+        <img src="/assets/img/unreallogo.png" width="50" height="50">
+    </td>
+    <td>
+        <img src="/assets/img/unitylogo.png" width="50" height="50">
+    </td>
+  </tr>
+
+  <tr>
+    <td>Unreal</td>
+    <td>Unity</td>
+  </tr>
+</table>
+
 ### Compétences
 Mathématiques - Architechture systèmes - Génie logiciel - Infographie - Conduite de projet - Game design
 
